@@ -1,0 +1,20 @@
+{
+  "name": "@ares/messaging",
+  "version": "1.0.0",
+  "description": "Messaging engine",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Stefani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstefani87info/ares-messaging.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rstefani87info/ares-messaging.git/issues"
+  },
+  "homepage": "https://github.com/rstefani87info/ares-messaging.git#readme"
+}
