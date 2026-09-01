@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rstefani87info/ares-messaging.git/issues"
   },
-  "homepage": "https://github.com/rstefani87info/ares-messaging.git#readme"
+  "homepage": "https://github.com/rstefani87info/ares-messaging.git#readme",
+  "devDependencies": {
+    "@ares/scd": "workspace:^"
+  }
 }
